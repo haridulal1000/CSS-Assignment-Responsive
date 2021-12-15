@@ -1,0 +1,59 @@
+.nav-bar, .search-bar, .header-links, .section-left, .section-right, .footer, .section-middle-right{
+    display: none;
+}
+.post{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    border-bottom:1px solid gray;
+}
+.header{
+    display:block;
+    position: sticky;
+    top: 0;
+    margin: 0 auto;
+
+}
+.section-middle-top{
+    display:block;
+    position: sticky;
+    top:15vw;
+    margin: 0 auto;
+    background-color: white;
+    
+}
+.section-middle-top::after{
+    content:'';
+    display: block;
+}
+.ham{
+    float:right;
+    margin-top:5%;
+    margin-right:5%;
+    font-size: 1.5rem;
+}
+.post div{
+    margin:0.5rem 0;
+}
+.left-pointer{
+    float:left;
+    margin-left:5%;
+}
+.right-pointer{
+    float:right;
+    margin-right:5%;
+}
+.pointer-control::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.section-middle-left-buttons, .section-middle-right-buttons{
+    margin-top:5%;
+}
+.section-middle-top{
+    display: none;
+}
+.profile-pic{
+    width: 30vw;
+}
