@@ -50,6 +50,9 @@ input:hover{
     float: left;
     margin-right: 3%;
 }
+.search-text{
+    background-color:#CAEFF7;
+}
 
 .nav-bar-right ul li{
     float: right;
