@@ -52,6 +52,8 @@ input:hover{
 }
 .search-text{
     background-color:#CAEFF7;
+    border:none;
+    outline:none;
 }
 
 .nav-bar-right ul li{
