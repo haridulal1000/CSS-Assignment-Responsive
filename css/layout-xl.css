@@ -37,6 +37,7 @@
 }
 .search-text{
 width:60%;
+border: none;
 }
 
 .header-links{
@@ -144,6 +145,7 @@ clear: both;
 }
 .profile-pic{
 width: 5vw;
+padding:5% 0;
 }
 /* .profile-pic {
     float: left;

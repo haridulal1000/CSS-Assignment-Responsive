@@ -57,3 +57,10 @@
 .profile-pic{
     width: 30vw;
 }
+.header{
+    display:block;
+    position: sticky;
+    top: 0;
+    margin: 0 auto;
+
+}
