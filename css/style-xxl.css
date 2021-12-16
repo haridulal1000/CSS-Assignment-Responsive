@@ -35,6 +35,11 @@ button:hover{
 input:hover{
     cursor: pointer;
 }
+.search-text{
+    background-color:#CAEFF7;
+    border:none;
+    outline:none;
+}
 
 .header{
     background-color: #7DD9E8;
